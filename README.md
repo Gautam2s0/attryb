@@ -1,2 +1,2 @@
-# attryb
+# Attryb
 #mern stack application
